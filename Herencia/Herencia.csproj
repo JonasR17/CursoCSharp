@@ -4,14 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{92BD5F57-24F8-43C3-AD04-C8F4C5EB4434}</ProjectGuid>
+    <ProjectGuid>{05B34BA5-0F9C-43BF-A344-6CBA4A60F6F5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Constructores</RootNamespace>
-    <AssemblyName>Constructores</AssemblyName>
+    <RootNamespace>Herencia</RootNamespace>
+    <AssemblyName>Herencia</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,7 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Persona.cs" />
+    <Compile Include="Animal.cs" />
+    <Compile Include="EjemploAB.cs" />
+    <Compile Include="Perro.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

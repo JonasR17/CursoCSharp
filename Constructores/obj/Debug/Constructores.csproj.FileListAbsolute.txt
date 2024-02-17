@@ -6,3 +6,10 @@ C:\Proyectos\Curso\CursoCSharp\Constructores\obj\Debug\Constructores.csproj.Sugg
 C:\Proyectos\Curso\CursoCSharp\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
 C:\Proyectos\Curso\CursoCSharp\Constructores\obj\Debug\Constructores.exe
 C:\Proyectos\Curso\CursoCSharp\Constructores\obj\Debug\Constructores.pdb
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\bin\Debug\Constructores.exe.config
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\bin\Debug\Constructores.exe
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\bin\Debug\Constructores.pdb
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\obj\Debug\Constructores.exe
+C:\Proyectos\Curso C#\CursoCSharp\Constructores\obj\Debug\Constructores.pdb

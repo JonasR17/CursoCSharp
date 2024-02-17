@@ -10,6 +10,10 @@ namespace Constructores
     {
         public static void Main(string[] args)
         {
+            var persona = new Persona();
+
+            var persona2 = new Persona("Nael's");
+            
         }
     }
 }
