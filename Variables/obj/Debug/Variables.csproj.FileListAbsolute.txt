@@ -6,3 +6,11 @@ C:\Users\jrg_p\source\repos\PortafolioProfesional\CursoCSharp\Variables\obj\Debu
 C:\Users\jrg_p\source\repos\PortafolioProfesional\CursoCSharp\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
 C:\Users\jrg_p\source\repos\PortafolioProfesional\CursoCSharp\Variables\obj\Debug\Variables.exe
 C:\Users\jrg_p\source\repos\PortafolioProfesional\CursoCSharp\Variables\obj\Debug\Variables.pdb
+C:\Proyectos\Curso\CursoCSharp\Variables\bin\Debug\Variables.exe.config
+C:\Proyectos\Curso\CursoCSharp\Variables\bin\Debug\Variables.exe
+C:\Proyectos\Curso\CursoCSharp\Variables\bin\Debug\Variables.pdb
+C:\Proyectos\Curso\CursoCSharp\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Proyectos\Curso\CursoCSharp\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\Curso\CursoCSharp\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Proyectos\Curso\CursoCSharp\Variables\obj\Debug\Variables.exe
+C:\Proyectos\Curso\CursoCSharp\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,8 @@
+C:\Proyectos\Curso\CursoCSharp\Listas\bin\Debug\Listas.exe.config
+C:\Proyectos\Curso\CursoCSharp\Listas\bin\Debug\Listas.exe
+C:\Proyectos\Curso\CursoCSharp\Listas\bin\Debug\Listas.pdb
+C:\Proyectos\Curso\CursoCSharp\Listas\obj\Debug\Listas.csproj.AssemblyReference.cache
+C:\Proyectos\Curso\CursoCSharp\Listas\obj\Debug\Listas.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos\Curso\CursoCSharp\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Proyectos\Curso\CursoCSharp\Listas\obj\Debug\Listas.exe
+C:\Proyectos\Curso\CursoCSharp\Listas\obj\Debug\Listas.pdb
